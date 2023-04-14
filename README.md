@@ -1,5 +1,5 @@
 # jha-bineet
-
+![logo](https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg)
 <h1 align="center">Hi 👋, I'm Bineet Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
